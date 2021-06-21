@@ -14,7 +14,7 @@
     ![facebook](https://img.shields.io/badge/islam%20ahmed-blue?style=flat&logo=facebook&logoColor=white&logoWidth=20)
 ][facebook]
 [
-    ![github](https://img.shields.io/badge/islamahmed?style=flat&logo=github&logoColor=white&logoWidth=20)
+    ![github](https://img.shields.io/badge/IslamAhmed0-333333?style=flat&logo=github&logoColor=white&logoWidth=20)
 ][github]
 [
     ![gmail](https://img.shields.io/badge/Gmail-ff0000?style=flat&logo=gmail&logoColor=white&logoWidth=20)
