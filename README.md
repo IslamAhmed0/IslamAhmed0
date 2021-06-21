@@ -7,3 +7,37 @@
 </div>
     
 <div>
+
+
+
+[
+    ![facebook](https://img.shields.io/badge/islam%20ahmed-blue?style=flat&logo=facebook&logoColor=white&logoWidth=20)
+][facebook]
+[
+    ![github](https://img.shields.io/badge/islam ahmed-333333?style=flat&logo=github&logoColor=white&logoWidth=20)
+][github]
+[
+    ![gmail](https://img.shields.io/badge/Gmail-ff0000?style=flat&logo=gmail&logoColor=white&logoWidth=20)
+][gmail]
+
+
+- I'm a Computer Engineer 👨‍💻🖥️
+- I worked as a Full Stack Software Engineer 👨‍💻🌐
+- I'm working on Web Development (frontend-backend) field 📡🌐
+
+</div>
+
+</div>
+
+---
+
+
+
+
+<!-- variables -->
+[facebook]: https://www.facebook.com/profile.php?id=100011457578267
+[github]: https://github.com/IslamAhmed0
+[gmail]: mailto:islam.abdou996@gmail.com
+
+
+
