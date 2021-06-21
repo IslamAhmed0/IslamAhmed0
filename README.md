@@ -24,9 +24,13 @@
 - I'm a Computer Engineer 👨‍💻🖥️
 - I worked as a Full Stack Software Engineer 👨‍💻🌐
 - I'm working on Web Development (frontend-backend) field 📡🌐
+    
+    
+    
 
 </div>
 
+    
 </div>
 
 
