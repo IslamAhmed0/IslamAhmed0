@@ -24,6 +24,7 @@
 - I'm a Computer Engineer 👨‍💻🖥️
 - I worked as a Full Stack Software Engineer 👨‍💻🌐
 - I'm working on Web Development (frontend-backend) field 📡🌐
+- currently i am a Student at ITI , Applications Development
 
     
     
