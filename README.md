@@ -48,13 +48,26 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
 </p>
+### 🔵 Backend Development
+<p align="center">
+  &emsp;  
+  <a href="https://nodejs.org/en/" target="_blank">
+    <img alt="Node js" src="https://img.shields.io/badge/node js%20-%23E34F26.svg?style=plastic&logo=react&logoColor=white">
+  </a>
+   &emsp;
+  <a href="https://nestjs.com/" target="_blank"> 
+   <img alt="nestjs" src="https://img.shields.io/badge/nestjs%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+  </a>   
+</p>
 
 ### 🔵 Frontend Development
 
 <p align="center"> 
-  &emsp;   <a href="https://nodejs.org/en/" target="_blank">
-    <img alt="nodejs" src="https://img.shields.io/badge/react%20-%23E34F26.svg?style=plastic&logo=react&logoColor=white">
+  &emsp;  
+  <a href="https://reactjs.org/" target="_blank">
+    <img alt="teactjs" src="https://img.shields.io/badge/reactjs%20-%23E34F26.svg?style=plastic&logo=react&logoColor=white">
   </a>
+   &emsp;
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a>   
@@ -63,8 +76,8 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://reactjs.org/" target="_blank">
-    <img alt="react" src="https://img.shields.io/badge/react%20-%23E34F26.svg?style=plastic&logo=react&logoColor=white">
+  <a href="https://angular.io/" target="_blank">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23E34F26.svg?style=plastic&logo=react&logoColor=white">
   </a>
 </p>
 
@@ -84,6 +97,9 @@
 ### 🔵 IDEs
  
 <p align="center">
+ &emsp;
+    <a href="#"><img alt="webstorm" src="https://img.shields.io/badge/webstorm%20Studio%20Code-0078d7.svg?style=plastic&logo=vwebstorm-code&logoColor=white"></a>
+  &emsp; &emsp;
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp; &emsp;
